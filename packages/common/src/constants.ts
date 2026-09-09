@@ -225,6 +225,7 @@ export const DEFAULT_COLLISION_THRESHOLD =
   2 * SIDE_RESIZING_THRESHOLD - EPSILON;
 
 export const COLOR_WHITE = "#ffffff";
+export const DEFAULT_CANVAS_BACKGROUND_COLOR = "#f5f0e8";
 export const COLOR_CHARCOAL_BLACK = "#1e1e1e";
 // keep this in sync with CSS
 export const COLOR_VOICE_CALL = "#a2f1a6";
